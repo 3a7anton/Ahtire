@@ -1,0 +1,15 @@
+body {
+
+}
+
+section {
+	margin: 4%;
+	padding: 2%;
+	background: rgba(240, 240, 240, 0.8);
+	border-radius: 2%;
+}
+
+button {
+	border-radius: 50%;
+	outline: None;
+}
